@@ -22,5 +22,5 @@ This project automates the process of extracting dat from incoming all emails di
 ### About the Author
 I am a self-learner focusing on **Data science**, **Machine learning**, and **Automation**. I enjoy building tools that solve real-world problems
 
-* **LinkedIn:** https://www.linkedin.com/in/muhammad-bilal-awais-59a514298/?skipRedirect=true
+* **LinkedIn:** https://www.linkedin.com/in/muhammad-bilal-awais-59a514298
 * **GitHub:** [bilalawaislhr](https://github.com/bilalawaislhr)
