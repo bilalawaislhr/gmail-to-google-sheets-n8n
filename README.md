@@ -1,30 +1,26 @@
-# gmail-to-google-sheets-n8n
-Automating email data extraction to Google Sheets using n8n
+# Gmail to Google sheets Automation (n8n Workflow)
 
-# 📧 Gmail to Google Sheets Automation (n8n Workflow)
+### Project overview
+This project automates the process of extracting dat from incoming all emails directly into  a google Sheet
 
-### 📝 Project Overview
-This project automates the process of extracting important data from incoming emails and logging it directly into a Google Sheet. It is designed to help small businesses and individuals manage their email data without manual entry.
+### Features
+* **Real-time sync:** Triggers every Time a new Email arrives in gmail
+* **Smart extraction:** Automatically maps Sender Name, Email, Subject, and Date to Google sheet columns
 
-### 🚀 Features
-* **Real-time Sync:** Triggers every time a new email arrives in Gmail.
-* **Smart Extraction:** Automatically maps Sender Name, Email, Subject, and Date to Google Sheet columns.
-* **Efficiency:** Eliminates manual data entry errors and saves significant time.
-
-### 🛠️ Tech Stack
-* **n8n** (Low-code Automation Tool)
-* **Google Sheets API**
+### Tech Stack
+* **n8n** (Low-code automation tool)
+* **Google sheets API**
 * **Gmail OAuth2**
 
-### 📥 How to Use
-1. Download the `gmail-to-sheets.json` file from this repository.
-2. Open your **n8n** instance.
-3. Import the JSON file into a new workflow.
-4. Set up your Gmail and Google Sheets credentials.
-5. Activate the workflow and watch the magic happen!
+### How to use
+1. Download the `gmail-to-sheets.json` file from this repository
+2. Open your **n8n** instance
+3. Import the JSON file into a new workflow
+4. Set up your gmail and google sheets credentials
+5. Activate the Workflow and watch the magic happen
 
-### 👤 About the Author
-I am a passionate self-learner focusing on **Data Science**, **Machine Learning**, and **Automation**. I enjoy building tools that solve real-world problems.
+### About the Author
+I am a self-learner focusing on **Data science**, **Machine learning**, and **Automation**. I enjoy building tools that solve real-world problems
 
-* **LinkedIn:** [Insert Your LinkedIn Profile Link Here]
+* **LinkedIn:** https://www.linkedin.com/in/muhammad-bilal-awais-59a514298/?skipRedirect=true
 * **GitHub:** [bilalawaislhr](https://github.com/bilalawaislhr)
